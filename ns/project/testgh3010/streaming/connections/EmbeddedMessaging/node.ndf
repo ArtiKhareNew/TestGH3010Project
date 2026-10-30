@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.testgh3010.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">TestGH3010Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">TestGH3010Project.project.testgh3010.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-prod989056-um-0.int-prod989056.svc.cluster.local:9000/</value>
+  <value name="clientId">EM7f5761425e094eb6b9db124cb716395e</value>
+  <value name="securityProtocol"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Arti.Khare@ibm.com</value>
+    <value name="createdDate">2026-10-30T05:39:13.533452792Z</value>
+    <value name="modifiedBy">Arti.Khare@ibm.com</value>
+    <value name="lastModifiedDate">2026-10-30T05:39:13.533452792Z</value>
+  </record>
+</Values>
